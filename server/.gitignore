@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node modules
 node_modules/
 
@@ -13,3 +14,6 @@ npm-debug.log*
 .DS_Store
 .vscode/
 .idea/
+=======
+node_modules/
+>>>>>>> 5ce10e374e33cc2939e5400a238d2e144f4916f2
